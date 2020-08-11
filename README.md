@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on DRF(Django REST Framework),Argo Workflow and Toy Project!
 - 🌱 I’m currently learning on Python Data Structures & Vue.js!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2044smile)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2044smile&show_icons=true&theme=radical)
 <!--
 **2044smile/2044smile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
