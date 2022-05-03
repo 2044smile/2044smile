@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning on Python Data Structures & Vue.js!
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2044smile&show_icons=true&theme=radical)
+
+- I had to rest because of an accident (2021-05-11~2022-06-01)
+- 나는 이창석이다. 그러므로 할 수 있다.
 <!--
 **2044smile/2044smile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
