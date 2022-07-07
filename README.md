@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on DRF(Django REST Framework),Argo Workflow and Toy Project!
 - 🌱 I’m currently learning on Python Data Structures & Vue.js!
+- ✨ I'm currently learning on AWS EC2, Route53, ALB, ECR, EKS, CI(Github actions, Docker, ECR Push), CD(Helm, Kubernetes)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2044smile&show_icons=true&theme=radical)
 
