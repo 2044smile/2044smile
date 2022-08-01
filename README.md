@@ -9,7 +9,7 @@
 - 💬 I'm always(부사) study english Because(접속사) I want to travel abroad
 
 - I had to rest because of an accident (2021-05-11~2022-06-01)
-- 나는 이창석이다. 그러므로 할 수 있다.
+- 나는 이창석이다. 그러므로 할 수 있다!
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2044smile&show_icons=true&theme=radical)
 
