@@ -6,6 +6,15 @@
 - ✨ CI(Github actions, Docker, ECR Push), CD(Helm, Kubernetes)
 - 나는 이창석이다. 그러므로 할 수 있다!
 
+1. install homebrew
+2. brew install --cask visual-studio-code slack iterm2
+2-1. iterm2color
+3. ohmyzsh
+4. brew install python3 gh(github) 
+5. gh auth login
+6. VScode Settings
+6-1. gitLens, Material Icon Theme, Code formatter
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2044smile&show_icons=true&theme=radical)
 
 <!--
