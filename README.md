@@ -6,6 +6,8 @@
 - ✨ CI(Github actions, Docker, ECR Push), CD(Helm, Kubernetes)
 - 나는 이창석이다. 그러므로 할 수 있다!
 
+### My Information
+
 1. install homebrew
 2. brew install --cask visual-studio-code slack iterm2
 2-1. iterm2color
