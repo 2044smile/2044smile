@@ -15,7 +15,7 @@
 3. ohmyzsh
 4. brew install python3 gh(github) 
 5. gh auth login
-6. VScode Settings
+6. VScode Settings <br>
 6-1. gitLens, Material Icon Theme, Code formatter
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2044smile&show_icons=true&theme=radical)
