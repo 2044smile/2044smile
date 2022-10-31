@@ -13,8 +13,8 @@
 2. brew install --cask visual-studio-code slack iterm2 <br>
 2-1. iterm2color
 3. ohmyzsh
-3-1. zsh-autosuggestions
-3-2. zsh-syntax-highlighting
+3-1. zsh-autosuggestions<br>
+3-2. zsh-syntax-highlighting<br>
 5. brew install python3 gh(github) 
 6. gh auth login
 7. VScode Settings <br>
