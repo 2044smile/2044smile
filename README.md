@@ -13,9 +13,11 @@
 2. brew install --cask visual-studio-code slack iterm2 <br>
 2-1. iterm2color
 3. ohmyzsh
-4. brew install python3 gh(github) 
-5. gh auth login
-6. VScode Settings <br>
+3-1. zsh-autosuggestions
+3-2. zsh-syntax-highlighting
+5. brew install python3 gh(github) 
+6. gh auth login
+7. VScode Settings <br>
 6-1. gitLens, Material Icon Theme, Code formatter
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2044smile&show_icons=true&theme=radical)
