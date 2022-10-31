@@ -12,7 +12,7 @@
 1. install homebrew
 2. brew install --cask visual-studio-code slack iterm2 <br>
 2-1. iterm2color
-3. ohmyzsh
+3. ohmyzsh<br>
 3-1. zsh-autosuggestions<br>
 3-2. zsh-syntax-highlighting<br>
 5. brew install python3 gh(github) 
