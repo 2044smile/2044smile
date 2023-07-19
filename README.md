@@ -8,8 +8,12 @@ but I am trying to walk more and very well. ❤‍🩹
 
 I always say, "I can do it!", "Don't give up."
 
->If you cannot fly then run. If you cannot run, then walk. And, if you cannot walk, then crawl, but whatever you do, you have to keep moving forward. – Martin Luther King Jr.
+> If you cannot fly then run. If you cannot run, then walk. And, if you cannot walk, then crawl, but whatever you do, you have to keep moving forward. – Martin Luther King Jr.
 > 날지 못하면 달려라. 달리지 못하면 걸어라. 그리고 걷지 못하면 기어라, 당신이 무엇을 하든 앞으로 가야 한다는 것만 명심해라. – 마틴 루터 킹 주니어
+
+#### Languages and Tools:
+
+<img src="https://img.shields.io/badge/python-232F3E?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django-232F3E?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/docker-232F3E?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-232F3E?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/argo-232F3E?style=for-the-badge&logo=argo&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-232F3E?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/helm-232F3E?style=for-the-badge&logo=helm&logoColor=white">
 
 - 🔭 I’m currently working on DRF(Django REST Framework),Argo Workflow and Toy Project!
 - 🌱 I’m currently learning on Python Data Structures & Vue.js!
