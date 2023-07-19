@@ -17,7 +17,7 @@ I always say, "I can do it!", "Don't give up."
 
 - 🔭 I’m currently working on DRF(Django REST Framework),Argo Workflow and Toy Project!
 - 🌱 I’m currently learning on Python Data Structures & Vue.js!
-- ✨ I'm currently learning on AWS EC2, Route53, ALB, ECR, EKS, Ingress, ACM
+- ✨ I'm currently learning on AWS EC2, Route53, ALB, ECR, EKS, Ingress, ACM, Lambda
 - ✨ CI(Github actions, Docker, ECR Push), CD(Helm, Kubernetes)
 - 나는 이창석이다. 그러므로 할 수 있다!
 
