@@ -14,9 +14,9 @@ I always say, "I can do it!", "Don't give up."
 #### Languages and Tools:
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <br> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
 
-- 🔭 I’m currently working on DRF(Django REST Framework),Argo Workflow and Toy Project!
-- 🌱 I’m currently learning on Python Data Structures & Vue.js!
-- ✨ I'm currently learning on AWS EC2, Route53, ALB, ECR, EKS, Ingress, ACM, Lambda
+- 🔭 DRF(Django REST Framework),Argo Workflow and Toy Project!
+- 🌱 Python Data Structures & Vue.js!
+- ✨ AWS EC2, Route53, ALB, ECR, EKS, Ingress, ACM, Lambda
 - ✨ CI(Github actions, Docker, ECR Push), CD(Helm, Kubernetes)
 - 나는 이창석이다. 그러므로 할 수 있다!
 
