@@ -18,7 +18,7 @@ I always say, "I can do it!", "Don't give up."
 - 🌱 Python Data Structures & Vue.js!
 - ✨ AWS EC2, Route53, ALB, ECR, EKS, Ingress, ACM, Lambda
 - ✨ CI(Github actions, Docker, ECR Push), CD(Helm, Kubernetes)
-- 나는 이창석이다. 그러므로 할 수 있다! I can do it
+- 나는 이창석이다. 그러므로 할 수 있다! I can do it!
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2044smile&show_icons=true&theme=radical)
 
