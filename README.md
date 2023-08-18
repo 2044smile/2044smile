@@ -22,7 +22,7 @@ I always say, "I can do it!", "Don't give up."
 2. Vue.js (Toy Project)
 
 ### [Mobile](https://newbiecs.tistory.com/category/Mobile)
-1. Kotlin
+1. Kotlin (Toy Project)
 
 ### [DevOps](https://newbiecs.tistory.com/category/Devops)
 1. AWS ACM, Route53, ALB, EKS, ECR, EC2, Ingress, Lambda 
