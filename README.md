@@ -25,7 +25,7 @@ I always say, "I can do it!", "Don't give up."
 ### [DevOps](https://newbiecs.tistory.com/category/Devops)
 1. AWS ACM, Route53, ALB, EKS, ECR, EC2, Ingress, Lambda 
 2. Kubernetes, Argo Workflow, Argo Events
-4. CI(Github Actions, Docker, AWS ECR Push)
+4. CI(Github Actions, Docker, AWS ECR)
 5. CD(Helm)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2044smile&show_icons=true&theme=radical)
