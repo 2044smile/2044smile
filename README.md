@@ -23,8 +23,9 @@ I always say, "I can do it!", "Don't give up."
 2. Vue.js (Toy Project)
 
 ### [DevOps](https://newbiecs.tistory.com/category/Devops)
-1. AWS ACM, Route53, ALB, EKS, ECR, EC2, Ingress, Lambda 
-2. Kubernetes, Argo Workflow[MLOps], Argo Events
+1. Docker
+2. AWS ACM, Route53, ALB, EKS, ECR, EC2, Ingress, Lambda 
+3. Kubernetes, Argo Workflow[MLOps], Argo Events
 4. CI(Github Actions, Docker, AWS ECR)
 5. CD(Helm)
 
