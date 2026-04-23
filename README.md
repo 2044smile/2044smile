@@ -19,6 +19,7 @@ I always say, "I can do it!", "Don't give up."
 
 ### [Languages](https://newbiecs.tistory.com/category/Language/Python)
 1. Python
+2. C++
 
 ### [Web](https://newbiecs.tistory.com/category/Web)
 1. Django
