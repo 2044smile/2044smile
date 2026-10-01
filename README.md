@@ -2,7 +2,7 @@
 
 # Changseok Lee
 
-Backend &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Vision AI Pipeline
+Backend &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Vision AI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-13161D?style=flat-square&logo=githubpages&logoColor=4FD1C0)](https://2044smile.github.io/)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-ED1C24?style=flat-square&logo=tistory&logoColor=white)](https://newbiecs.tistory.com/)
