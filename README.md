@@ -29,6 +29,7 @@ Backend &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Vision AI Pipeline
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 **Vision AI**
 
@@ -41,6 +42,7 @@ Backend &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Vision AI Pipeline
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Argo Workflow](https://img.shields.io/badge/Argo%20Workflow-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
@@ -52,9 +54,7 @@ Backend &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Vision AI Pipeline
 **Others**
 
 ![ONVIF](https://img.shields.io/badge/ONVIF-0A5C8C?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
