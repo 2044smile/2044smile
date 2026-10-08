@@ -15,6 +15,8 @@ Backend &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Vision AI
 
 ## Stacks
 
+<div align="center">
+
 **Language**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -68,6 +70,8 @@ Backend &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Vision AI
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
 
 ---
 
