@@ -7,7 +7,6 @@ Backend &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Vision AI
 [![Portfolio](https://img.shields.io/badge/Portfolio-13161D?style=flat-square&logo=githubpages&logoColor=4FD1C0)](https://2044smile.github.io/)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-ED1C24?style=flat-square&logo=tistory&logoColor=white)](https://newbiecs.tistory.com/)
 [![Email](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:2044smile@naver.com)
-![Visitors](https://komarev.com/ghpvc/?username=2044smile&style=flat-square&color=4FD1C0&label=visitors)
 
 </div>
 
